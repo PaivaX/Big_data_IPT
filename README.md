@@ -3,7 +3,7 @@ INSTITUTO POLITÉCNICO DE TOMAR
 UNIDADE DEPARTAMENTAL DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
 
 
-<center>Projeto (Parte I)
+<center>Projeto (Parte I)</center>
 (Trabalho de Grupo)
 APIs, Packages</center>O trabalho prático é obrigatório para a obtenção de aprovação na unidade curricular.
 No caso de não entrega durante o prazo previsto os alunos serão admitidos a exame.
