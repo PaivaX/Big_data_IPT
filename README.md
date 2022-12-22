@@ -5,15 +5,16 @@ UNIDADE DEPARTAMENTAL DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
 
 <center>Projeto (Parte I)
 (Trabalho de Grupo)
-APIs, Packages</center>
-O trabalho prático é obrigatório para a obtenção de aprovação na unidade curricular. No
-caso de não entrega durante o prazo previsto os alunos serão admitidos a exame.
+APIs, Packages</center>O trabalho prático é obrigatório para a obtenção de aprovação na unidade curricular.
+No caso de não entrega durante o prazo previsto os alunos serão admitidos a exame.
 Objetivo: Familiarização com os conceitos de obtenção de dados a partir de diferentes
 sources via APIs e packages Python
 Entrega: Os trabalhos devem ser inseridos na plataforma de e-Learning em data a anunciar
 pelo docente.
+
 Realização do trabalho: Os trabalhos devem ser entregues em formato notebook
 (devidamente documentados).
+
 Neste exercício pretende-se reunir os dados meteorológicos de um conjunto de cidades portuguesas bem como a sua distância para uma cidade de referência. Pretende-se com esta base de dados reunir informação que permita no futuro aplicar um algoritmo de machine learning que estude o efeito (se algum) que a proximidade de uma cidade, ao mar, tem no clima local. Para esse efeito, pretende-se reunir um conjunto de 10 cidades com diferentes distâncias relativamente a uma cidade costeira de referência. Na escolha das cidades devese optar por deixar de fora, cidades montanhosas por forma a evitar a introdução de outros fatores que poderão afetar o clima (nomeadamente a altitude).
 
 Deverá proceder à recolha dos dados meteorológicos a cada 1 hora durante o espaço de 5 dias consecutivos.
