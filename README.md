@@ -3,7 +3,7 @@ INSTITUTO POLITÉCNICO DE TOMAR
 UNIDADE DEPARTAMENTAL DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
 
 
-<center>Projeto (Parte I)</center>
+Projeto (Parte I)
 (Trabalho de Grupo)
 APIs, Packages
 
