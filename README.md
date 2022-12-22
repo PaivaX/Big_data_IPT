@@ -14,16 +14,10 @@ Entrega: Os trabalhos devem ser inseridos na plataforma de e-Learning em data a 
 pelo docente.
 Realização do trabalho: Os trabalhos devem ser entregues em formato notebook
 (devidamente documentados).
-Neste exercício pretende-se reunir os dados meteorológicos de um conjunto de cidades
-portuguesas bem como a sua distância para uma cidade de referência. Pretende-se com esta
-base de dados reunir informação que permita no futuro aplicar um algoritmo de machine
-learning que estude o efeito (se algum) que a proximidade de uma cidade, ao mar, tem no
-clima local. Para esse efeito, pretende-se reunir um conjunto de 10 cidades com diferentes
-distâncias relativamente a uma cidade costeira de referência. Na escolha das cidades devese optar por deixar de fora, cidades montanhosas por forma a evitar a introdução de outros
-fatores que poderão afetar o clima (nomeadamente a altitude).
-Página 2 de 2
-Deverá proceder à recolha dos dados meteorológicos a cada 1 hora durante o espaço de 5
-dias consecutivos. Para a obtenção automática das distâncias (air distance) entre as cidades
+Neste exercício pretende-se reunir os dados meteorológicos de um conjunto de cidades portuguesas bem como a sua distância para uma cidade de referência. Pretende-se com esta base de dados reunir informação que permita no futuro aplicar um algoritmo de machine learning que estude o efeito (se algum) que a proximidade de uma cidade, ao mar, tem no clima local. Para esse efeito, pretende-se reunir um conjunto de 10 cidades com diferentes distâncias relativamente a uma cidade costeira de referência. Na escolha das cidades devese optar por deixar de fora, cidades montanhosas por forma a evitar a introdução de outros fatores que poderão afetar o clima (nomeadamente a altitude).
+
+Deverá proceder à recolha dos dados meteorológicos a cada 1 hora durante o espaço de 5 dias consecutivos.
+Para a obtenção automática das distâncias (air distance) entre as cidades
 sugere-se o recurso a packages de Geocoding (Geocoding is the computational process of
 transforming a physical address description to a location on the Earth’s surface (spatial
 representation in numerical coordinates) — Wikipedia).
