@@ -27,12 +27,19 @@ consideradas.
 2. Com recurso à API “Current Weather” (https://openweathermap.org/current) obtenha
 os seguintes dados meteorológicos a cada hora durante o espaço de 5 dias consecutivos:
 • Temperature
+
 • Humidity
+
 • Pressure
+
 • Description
+
 • Wind speed
+
 • Wind degree
+
 • Timestamp (dt)
+
 Para a obtenção dos dados (e em alternativa ao uso da sua máquina local) sugere-se
 executar o código durante os referidos 5 dias na seguinte máquina virtual:
 https://www.pythonanywhere.com/
