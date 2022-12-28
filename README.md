@@ -26,6 +26,7 @@ representation in numerical coordinates) — Wikipedia).
 consideradas.
 2. Com recurso à API “Current Weather” (https://openweathermap.org/current) obtenha
 os seguintes dados meteorológicos a cada hora durante o espaço de 5 dias consecutivos:
+
 • Temperature
 
 • Humidity
