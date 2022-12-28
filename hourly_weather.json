@@ -1,0 +1,112 @@
+[
+    {
+        "city": "caldas da rainha",
+        "timestamp": 1672244170,
+        "temp_celcius": 15.68,
+        "humidity": 85,
+        "pressure_millibar": 1023,
+        "wind_speed_m_per_s": 2.68,
+        "wind_dir_deg": 189,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "viseu",
+        "timestamp": 1672243804,
+        "temp_celcius": 13.6,
+        "humidity": 92,
+        "pressure_millibar": 1023,
+        "wind_speed_m_per_s": 3.44,
+        "wind_dir_deg": 229,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "coimbra",
+        "timestamp": 1672243804,
+        "temp_celcius": 16.97,
+        "humidity": 86,
+        "pressure_millibar": 1024,
+        "wind_speed_m_per_s": 3.11,
+        "wind_dir_deg": 223,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "leiria",
+        "timestamp": 1672243820,
+        "temp_celcius": 16.03,
+        "humidity": 79,
+        "pressure_millibar": 1024,
+        "wind_speed_m_per_s": 0.45,
+        "wind_dir_deg": 178,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "tomar",
+        "timestamp": 1672243756,
+        "temp_celcius": 12.88,
+        "humidity": 92,
+        "pressure_millibar": 1024,
+        "wind_speed_m_per_s": 2.28,
+        "wind_dir_deg": 208,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "santar\u00e9m",
+        "timestamp": 1672244036,
+        "temp_celcius": 13.69,
+        "humidity": 79,
+        "pressure_millibar": 1024,
+        "wind_speed_m_per_s": 2.82,
+        "wind_dir_deg": 229,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "aveiro",
+        "timestamp": 1672243818,
+        "temp_celcius": 17.22,
+        "humidity": 89,
+        "pressure_millibar": 1023,
+        "wind_speed_m_per_s": 4.21,
+        "wind_dir_deg": 238,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "soure",
+        "timestamp": 1672244037,
+        "temp_celcius": 17.07,
+        "humidity": 84,
+        "pressure_millibar": 1024,
+        "wind_speed_m_per_s": 3.54,
+        "wind_dir_deg": 228,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "odemira",
+        "timestamp": 1672244037,
+        "temp_celcius": 17.83,
+        "humidity": 65,
+        "pressure_millibar": 1026,
+        "wind_speed_m_per_s": 2.15,
+        "wind_dir_deg": 311,
+        "description": "few clouds"
+    },
+    {
+        "city": "lagoa",
+        "timestamp": 1672244037,
+        "temp_celcius": 18.71,
+        "humidity": 68,
+        "pressure_millibar": 1025,
+        "wind_speed_m_per_s": 2.35,
+        "wind_dir_deg": 255,
+        "description": "clear sky"
+    },
+    {
+        "city": "faro",
+        "timestamp": 1672244038,
+        "temp_celcius": 18.95,
+        "humidity": 59,
+        "pressure_millibar": 1025,
+        "wind_speed_m_per_s": 2.57,
+        "wind_dir_deg": 180,
+        "description": "clear sky"
+    }
+]
