@@ -24,6 +24,7 @@ transforming a physical address description to a location on the Earth’s surfa
 representation in numerical coordinates) — Wikipedia).
 1. Recorra a uma biblioteca Python que permita plotar num mapa google as localidades
 consideradas.
+
 2. Com recurso à API “Current Weather” (https://openweathermap.org/current) obtenha
 os seguintes dados meteorológicos a cada hora durante o espaço de 5 dias consecutivos:
 
@@ -44,8 +45,10 @@ os seguintes dados meteorológicos a cada hora durante o espaço de 5 dias conse
 Para a obtenção dos dados (e em alternativa ao uso da sua máquina local) sugere-se
 executar o código durante os referidos 5 dias na seguinte máquina virtual:
 https://www.pythonanywhere.com/
+
 3. Recorra a packages de geocoding (e.g., “Geopy”
 (https://geopy.readthedocs.io/en/stable/) para obter de forma programática a distância
 entre as cidades selecionadas e a cidade de referência.
+
 4. Guarde os dados obtidos num único ficheiro json.
 5. Liste os dados num dataframe.
